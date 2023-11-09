@@ -31,12 +31,8 @@ jobs:
         run: |
           echo "GITHUB_TAG_MAJOR_VERSION=${{ github.event.pull_request.title }}" >> ${GITHUB_ENV}
 
-      - name: Set Version for Hotfix Release from Input.
-        if: github.event_name != 'pull_request'
-        run: |
-          echo "GITHUB_TAG_MAJOR_VERSION=${{ github.event.inputs.version }}" >> ${GITHUB_ENV}
-
       - name: Major Version in Upgrade Handler Must Match Tag
+        if: github.event_name == 'pull_request'
         run: |
           UPGRADE_HANDLER_MAJOR_VERSION=$(cat app/setup_handlers.go | grep "const releaseVersion" | cut -d ' ' -f4 | tr -d '"')
           echo $UPGRADE_HANDLER_MAJOR_VERSION
