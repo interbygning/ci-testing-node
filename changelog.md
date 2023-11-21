@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Version: v12.1.0
+## Version: v10.1.0
 ### What's Changed:
 * fix: updated release ci
 * fix: added upgrade name, and allow download. allows to test release can. by @gzukel in https://github.com/zeta-chain/node/pull/1195
@@ -38,6 +38,5 @@
 * chore: sync from mockmain  by @brewmaster012 in https://github.com/zeta-chain/node/pull/1265
 * chore: increment handler version by @kingpinXD in https://github.com/zeta-chain/node/pull/1307
 * fix: begin blocker for mock mainnet by @kingpinXD in https://github.com/zeta-chain/node/pull/1308
-
 
 
