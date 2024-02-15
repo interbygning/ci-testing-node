@@ -3,7 +3,7 @@
 ZetaChain is an EVM-compatible L1 blockchain that enables omnichain, generic
 smart contracts and messaging between any blockchain.
 
-## Prerequisites
+## Prerequisites.
 
 - [Go](https://golang.org/doc/install) 1.20
 - [Docker](https://docs.docker.com/install/) and
