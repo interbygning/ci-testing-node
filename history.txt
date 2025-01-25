@@ -58,3 +58,4 @@
 2025-04-28 20:00:57 rollback changes
 2025-10-02 10:30:15 fix bug
 2025-04-20 13:14:58 minor tweaks
+2025-01-25 10:11:42 adjust validation rules
