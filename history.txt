@@ -24,3 +24,4 @@
 2025-02-09 08:40:10 security patch
 2025-11-18 10:28:27 improve caching
 2025-04-09 17:09:56 better error handling
+2025-03-24 04:45:44 update configs for prod
