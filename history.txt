@@ -20,3 +20,4 @@
 2025-10-21 16:46:00 reduce complexity
 2025-09-01 06:54:58 add tests
 2025-04-27 03:10:06 fix warnings
+2025-05-26 11:52:25 fix encoding issue
