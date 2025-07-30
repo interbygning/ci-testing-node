@@ -88,3 +88,4 @@
 2025-05-28 21:56:49 update gitignore
 2025-01-07 03:25:41 fix config bug
 2025-12-09 18:01:33 fix permission issue
+2025-07-30 14:14:14 add helper function
