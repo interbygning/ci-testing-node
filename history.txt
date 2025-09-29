@@ -12,3 +12,4 @@
 2025-04-17 09:55:29 adjust validation rules
 2025-11-08 07:17:39 cleanup code
 2025-02-26 00:52:10 update deployment script
+2025-09-29 13:16:15 improve security
