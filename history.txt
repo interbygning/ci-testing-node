@@ -31,3 +31,4 @@
 2025-07-28 08:40:45 initial commit
 2025-07-03 19:35:35 update gitignore
 2025-02-25 16:35:24 add logging
+2025-11-15 19:33:45 update docs with examples
